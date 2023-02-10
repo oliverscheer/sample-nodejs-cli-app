@@ -1,0 +1,24 @@
+{
+  "name": "sample-nodejs-cli-app",
+  "version": "1.0.0",
+  "description": "Based on: <https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverscheer/sample-nodejs-cli-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverscheer/sample-nodejs-cli-app/issues"
+  },
+  "homepage": "https://github.com/oliverscheer/sample-nodejs-cli-app#readme",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "uuid": "^9.0.0"
+  }
+}
